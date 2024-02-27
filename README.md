@@ -7,4 +7,5 @@ name: ศุภสัณห์ รังศรี
 technology: [streamlit]
 application description: สร้างเว็บไซด์สำหรับเก็บข้อมูลนักศึกษา
 presentation: [canva] link [ubu]
-video: link [ubu] xoxoxo
+video: link [ubu] 
+xoxoxo
